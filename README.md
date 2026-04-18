@@ -14,3 +14,13 @@ A minimalist, high-performance cryptocurrency dashboard built with **React**, **
 * **State:** Zustand
 * **Styling:** Tailwind CSS
 * **API:** CoinGecko API
+
+## Installation & Setup
+1. Clone the repository:
+git clone https://github.com/Rika-Rose/crypto-tracker.git
+
+2. Install dependencies:
+npm install
+
+3. Run the development server:
+npm run dev
